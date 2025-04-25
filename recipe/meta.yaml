@@ -24,6 +24,7 @@ requirements:
     - python >={{ python_min }}
     - cuequivariance
     - jax
+    - packaging
 
 test:
   imports:
